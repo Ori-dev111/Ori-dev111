@@ -14,7 +14,7 @@ type=waving&color=674188&height=120&section=header"/>
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p> 
 
-🌱ＡＴＵＡＬＭＥＮＴＥ ＥＳＴＵＤＡＮＤＯ ＵＸ ＤＥＳＩＧＮ Ｅ ＤＥＳＥＮＶＯＬＶＩＭＥＮＴＯ ＷＥＢ ＦＲＯＮＴ-ＥＮＤ👩🏻‍💻
+🌱atualmente estudando UX design e desenvolvimento web front-end👩🏻‍💻
 
 <h1>Attualmente estudando estas linguagens👇🏻</h1>
 	
@@ -27,7 +27,7 @@ type=waving&color=674188&height=120&section=header"/>
 
  <h1>frameworks e bibliotecas que atualmente estou aprendendo 👇🏻</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,django,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,django,bootstrap,react&theme=light)](https://skillicons.dev)
 
 
  
