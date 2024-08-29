@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=674188&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?
+type=waving&color=674188&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E073F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Oriannis+Ramos+Hernández;I'm+17+years+old;I+am+from+Manaus,+AM;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -12,6 +13,14 @@
   <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p> 
+
+🌱ＡＴＵＡＬＭＥＮＴＥ ＥＳＴＵＤＡＮＤＯ ＵＸ ＤＥＳＩＧＮ Ｅ ＤＥＳＥＮＶＯＬＶＩＭＥＮＴＯ ＷＥＢ ＦＲＯＮＴ-ＥＮＤ👩🏻‍💻
+
+<h1>Attualmente estu>dando estas linguagens👇🏻</h1>
+	
+[![MySkills](https://skillicons.dev/icons?i=js,html,css,nodejs,python&theme=light)](https://skillicons.dev)
+
+
 
 
  
