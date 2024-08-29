@@ -25,7 +25,9 @@ type=waving&color=674188&height=120&section=header"/>
  
  [![My Skills](https://skillicons.dev/icons?i=xd,pr,ps,ai,git,nodejs,figma&theme=light)](https://skillicons.dev)
 
+ <h1>frameworks e bibliotecas que atualmente estou aprendendo 👇🏻</h1>
 
+[![My Skills](https://skillicons.dev/icons?i=vue,django,react&theme=light)](https://skillicons.dev)
 
 
  
