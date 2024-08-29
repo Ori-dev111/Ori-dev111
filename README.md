@@ -16,9 +16,14 @@ type=waving&color=674188&height=120&section=header"/>
 
 🌱ＡＴＵＡＬＭＥＮＴＥ ＥＳＴＵＤＡＮＤＯ ＵＸ ＤＥＳＩＧＮ Ｅ ＤＥＳＥＮＶＯＬＶＩＭＥＮＴＯ ＷＥＢ ＦＲＯＮＴ-ＥＮＤ👩🏻‍💻
 
-<h1>Attualmente estu>dando estas linguagens👇🏻</h1>
+<h1>Attualmente estudando estas linguagens👇🏻</h1>
 	
-[![MySkills](https://skillicons.dev/icons?i=js,html,css,nodejs,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodej&theme=light)](https://skillicons.dev)
+
+ 
+ <h1>ferramentas que estou aprendendo a usar👇🏻</h1>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=xd,pr,ps,ai,git,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
