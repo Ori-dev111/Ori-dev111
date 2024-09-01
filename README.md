@@ -26,7 +26,7 @@
 
  <h1>frameworks e bibliotecas que atualmente estouaprendendo 👇🏻</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,django,bootstrap,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,django,bootstrap,spring,react&theme=light)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=674188&height=120&section=footer"/>
 
