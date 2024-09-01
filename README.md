@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?
-type=waving&color=674188&height=120&section=header"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=674188&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E073F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Oriannis+Ramos+Hernández;I'm+17+years+old;I+am+from+Manaus,+AM;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -16,18 +15,24 @@ type=waving&color=674188&height=120&section=header"/>
 
 🌱atualmente estudando UX design e desenvolvimento web front-end👩🏻‍💻
 
-<h1>Attualmente estudando estas linguagens👇🏻</h1>
+<h1>Atualmente estudando 👇🏻</h1>
 	
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodej&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java&theme=light)](https://skillicons.dev)
 
  
  <h1>ferramentas que estou aprendendo a usar👇🏻</h1>
  
  [![My Skills](https://skillicons.dev/icons?i=xd,pr,ps,ai,git,nodejs,figma&theme=light)](https://skillicons.dev)
 
- <h1>frameworks e bibliotecas que atualmente estou aprendendo 👇🏻</h1>
+ <h1>frameworks e bibliotecas que atualmente estouaprendendo 👇🏻</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=vue,django,bootstrap,react&theme=light)](https://skillicons.dev)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=674188&height=120&section=footer"/>
+
+
+
+
 
 
  
