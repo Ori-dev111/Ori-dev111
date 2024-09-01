@@ -24,7 +24,7 @@
  
  [![My Skills](https://skillicons.dev/icons?i=xd,pr,ps,ai,git,nodejs,figma,wordpress&theme=light)](https://skillicons.dev)
 
- <h1>frameworks e bibliotecas que atualmente estouaprendendo 👇🏻</h1>
+ <h1>frameworks e bibliotecas que atualmente estou aprendendo 👇🏻</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=vue,django,bootstrap,spring,react&theme=light)](https://skillicons.dev)
 
